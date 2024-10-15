@@ -2,15 +2,12 @@
 Olá! Eu sou a Larissa Nascimento
 -
 
-🧚‍♀️eu sou estudante da escola sully da Rosa Vilarinho 
+🎓eu sou estudante da escola sully da Rosa Vilarinho 
 
 💡 Competências e Habilidades
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+•Trabalho em equipe
+•Comunicação
+•Criatividade
 
 <!---
 larissallz/larissallz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
